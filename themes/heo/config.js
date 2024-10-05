@@ -14,11 +14,11 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
+  HEO_HERO_TITLE_1: '分享资源',
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'HOUKEQI.COM',
   HEO_HERO_TITLE_4: '最新上线',
-  HEO_HERO_TITLE_5: '最新嵌入式软件技术',
+  HEO_HERO_TITLE_5: '最新各种资源工具集合',
   HEO_HERO_TITLE_LINK: 'https://houkeqi.com',
 
   // 英雄区显示三个置顶分类
